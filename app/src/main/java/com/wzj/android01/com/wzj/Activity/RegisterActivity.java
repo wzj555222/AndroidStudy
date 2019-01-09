@@ -1,4 +1,4 @@
-package com.wzj.android01;
+package com.wzj.android01.com.wzj.Activity;
 
 import android.app.Activity;
 import android.content.ContentValues;
@@ -10,6 +10,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.wzj.android01.DB;
+import com.wzj.android01.R;
 
 public class RegisterActivity extends Activity {
     private EditText username;

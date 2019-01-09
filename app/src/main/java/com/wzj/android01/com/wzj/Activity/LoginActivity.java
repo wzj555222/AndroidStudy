@@ -1,4 +1,4 @@
-package com.wzj.android01;
+package com.wzj.android01.com.wzj.Activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -13,6 +13,10 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.wzj.android01.DB;
+import com.wzj.android01.Login;
+import com.wzj.android01.R;
 
 import java.util.HashMap;
 import java.util.Map;

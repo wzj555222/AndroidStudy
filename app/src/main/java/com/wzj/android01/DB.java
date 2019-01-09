@@ -3,8 +3,6 @@ package com.wzj.android01;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.os.Build;
-
 public class DB extends SQLiteOpenHelper {
     private static final int VERSION=1;
     private static final String NAME="myDB";
